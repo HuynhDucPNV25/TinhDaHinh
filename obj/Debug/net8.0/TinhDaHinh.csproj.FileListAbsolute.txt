@@ -1,0 +1,14 @@
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\bin\Debug\net8.0\TinhDaHinh.exe
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\bin\Debug\net8.0\TinhDaHinh.deps.json
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\bin\Debug\net8.0\TinhDaHinh.runtimeconfig.json
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\bin\Debug\net8.0\TinhDaHinh.dll
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\bin\Debug\net8.0\TinhDaHinh.pdb
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.AssemblyInfoInputs.cache
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.AssemblyInfo.cs
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.csproj.CoreCompileInputs.cache
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.dll
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\refint\TinhDaHinh.dll
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.pdb
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\TinhDaHinh.genruntimeconfig.cache
+C:\Users\duchu\source\repos\Input-Output\TinhDaHinh\obj\Debug\net8.0\ref\TinhDaHinh.dll
